@@ -9,9 +9,9 @@ Construción de un conversor de Monedas.
   * Consulta de la API [https://www.exchangerate-api.com/] 
 
 
-** Uso**
-Ejecutar el programa CurrencyConverter.java.
-Seguir las instrucciones del menú para realizar conversiones.
+  **Uso**
+  * Ejecutar el programa CurrencyConverter.java.
+  * Seguir las instrucciones del menú para realizar conversiones.
 
 ![image](https://github.com/Lfernanda2504/Conversor-de-moneda/assets/24297887/5357f6b6-542e-4756-895a-dd4234c707fe)
 
