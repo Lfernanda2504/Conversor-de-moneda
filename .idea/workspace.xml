@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c575ed1-b3a2-4845-9eb8-f26c79ceefcc" name="Changes" comment="refactor: update URI">
+    <list default="true" id="9c575ed1-b3a2-4845-9eb8-f26c79ceefcc" name="Changes" comment="fix: error handling with exceptions">
       <change afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracurso/conversormoneda/exception/TargetCurrencyNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracurso/conversormoneda/models/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracurso/conversormoneda/models/Currency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,12 +96,30 @@
       <option name="project" value="LOCAL" />
       <updated>1714513970099</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: create currency classes, filtering and conversion methods.">
+      <option name="closed" value="true" />
+      <created>1714514366251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714514366251</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: error handling with exceptions">
+      <option name="closed" value="true" />
+      <created>1714514455671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714514455671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: get dta from Api" />
     <MESSAGE value="refactor: update URI" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: update URI" />
+    <MESSAGE value="feat: create currency classes, filtering and conversion methods." />
+    <MESSAGE value="fix: error handling with exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: error handling with exceptions" />
   </component>
 </project>
